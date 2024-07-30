@@ -1,0 +1,8 @@
+/* src/components/ChatHeader.css */
+.chat-header {
+   padding: 10px;
+   background-color: #34495e;
+   color: white;
+   text-align: center;
+ }
+ 

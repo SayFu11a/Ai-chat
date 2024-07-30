@@ -1,0 +1,14 @@
+/* src/components/Message.css */
+.message {
+   padding: 10px;
+   margin: 5px 0;
+ }
+ .message.user {
+   background-color: #DCF8C6;
+   text-align: right;
+ }
+ .message.assistant {
+   background-color: #ECECEC;
+   text-align: left;
+ }
+ 
